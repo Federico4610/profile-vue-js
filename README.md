@@ -1,4 +1,4 @@
-# profile-vueui
+# profillenyapi-vueui
 
 ## Project setup
 ```
